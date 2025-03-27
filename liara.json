@@ -1,0 +1,13 @@
+{
+  "app": "alireza-n8n",
+  "port": 3000,
+  "build": {
+    "location": "germany"
+  },
+  "disks": [
+    {
+      "name": "n8n-disk",
+      "mountTo": "path/to/folder"
+    }
+  ]
+}
